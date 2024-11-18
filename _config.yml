@@ -7,7 +7,7 @@ url: "https://FayGroupUCLA.github.io" # Your GitHub Pages URL
 markdown: kramdown
 minimal_mistakes_skin: dark
 skin: dark
-remote_theme: "mmistakes/minimal-mistakes"
+remote_theme: mmistakes/minimal-mistakes
 
 
 plugins:
