@@ -3,12 +3,12 @@ title: Fay Group
 description: Fay Group @ UCLA website
 baseurl: "" # Leave blank for GitHub Pages; otherwise, add "/your-repo-name"
 url: "https://FayGroupUCLA.github.io" # Your GitHub Pages URL
-#theme: minima
+theme: minima
 
 # Minimal Mistakes settings
-remote_theme: mmistakes/minimal-mistakes
-plugins:
-  - jekyll-remote-theme # Enables remote theme support
+# remote_theme: mmistakes/minimal-mistakes
+# plugins:
+  # - jekyll-remote-theme # Enables remote theme support
 
 
 # links for navigation
