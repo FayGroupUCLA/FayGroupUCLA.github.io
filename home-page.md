@@ -1,3 +1,3 @@
 layout: page
-title: "FAy Group @ UCLA"
+title: "Fay Group @ UCLA"
 permalink: /home
