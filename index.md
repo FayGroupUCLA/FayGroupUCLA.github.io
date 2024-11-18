@@ -2,6 +2,8 @@
 layout: default
 title: Home
 ---
-# Welcome to My Jekyll Site
+# Fay Group @ UCLA
 
-Fay group @ UCLA. Welcome to the website.
+Welcome to the Fay group website. We are a theoretical and computational chemistry research group at UCLA. The group will be starting in Summer 2025 -- so come back here soon for more information.
+
+Until then my publications can be found on my [google scholar](https://scholar.google.com/citations?user=QTfhgdIAAAAJ&hl=en) page.
