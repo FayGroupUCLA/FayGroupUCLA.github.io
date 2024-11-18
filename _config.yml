@@ -9,6 +9,8 @@ description: Fay Group @ UCLA website
 baseurl: "" # Leave blank for GitHub Pages; otherwise, add "/your-repo-name"
 url: "https://FayGroupUCLA.github.io" # Your GitHub Pages URL
 
+header_pages:
+  - contact.md
 
 # plugins:
 #   - jekyll-paginate
