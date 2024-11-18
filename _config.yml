@@ -6,9 +6,14 @@ url: "https://FayGroupUCLA.github.io" # Your GitHub Pages URL
 # theme: minima
 markdown: kramdown
 remote_theme: "mmistakes/minimal-mistakes"
-minimal_mistakes_skin: default
+minimal_mistakes_skin: dark
 
 plugins:
-- jekyll-include-cache
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-gist
+  - jekyll-feed
+  - jemoji
+  - jekyll-include-cache
   # - jekyll-remote-theme
   
