@@ -1,24 +1,26 @@
-remote_theme: "mmistakes/minimal-mistakes"
-minimal_mistakes_skin: "dark"
+# remote_theme: "mmistakes/minimal-mistakes"
+# minimal_mistakes_skin: "dark"
+
+theme: minimal
 
 # Basic site settings
 title: Fay Group
 description: Fay Group @ UCLA website
 baseurl: "" # Leave blank for GitHub Pages; otherwise, add "/your-repo-name"
 url: "https://FayGroupUCLA.github.io" # Your GitHub Pages URL
-# theme: minima
 
-plugins:
-  - jekyll-paginate
-  - jekyll-sitemap
-  - jekyll-gist
-  - jemoji
-  - jekyll-include-cache
 
-whitelist:
-  - jekyll-paginate
-  - jekyll-sitemap
-  - jekyll-gist
-  - jemoji
-  - jekyll-include-cache
+# plugins:
+#   - jekyll-paginate
+#   - jekyll-sitemap
+#   - jekyll-gist
+#   - jemoji
+#   - jekyll-include-cache
+
+# whitelist:
+#   - jekyll-paginate
+#   - jekyll-sitemap
+#   - jekyll-gist
+#   - jemoji
+#   - jekyll-include-cache
   
