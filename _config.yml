@@ -7,6 +7,7 @@ url: "https://FayGroupUCLA.github.io" # Your GitHub Pages URL
 remote_theme: "mmistakes/minimal-mistakes"
 plugins:
   - jekyll-feed
+  - jekyll-remote-theme
   
 # header_pages:
 #   - title: Home
