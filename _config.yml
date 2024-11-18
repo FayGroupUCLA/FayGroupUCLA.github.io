@@ -11,9 +11,9 @@ theme: minima
   # - jekyll-remote-theme # Enables remote theme support
 
 
-# links for navigation
-nav_links:
-  - title: "Home"
-    url: "/"
-  - title: "Contact"
-    url: "/contact/"
+# # links for navigation
+# nav_links:
+#   - title: "Home"
+#     url: "/"
+#   - title: "Contact"
+#     url: "/contact/"
