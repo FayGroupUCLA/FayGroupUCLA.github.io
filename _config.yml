@@ -1,7 +1,7 @@
 # remote_theme: "mmistakes/minimal-mistakes"
 # minimal_mistakes_skin: "dark"
 
-theme: minimal
+theme: minima
 
 # Basic site settings
 title: Fay Group
