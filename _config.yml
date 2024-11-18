@@ -5,7 +5,9 @@ baseurl: "" # Leave blank for GitHub Pages; otherwise, add "/your-repo-name"
 url: "https://FayGroupUCLA.github.io" # Your GitHub Pages URL
 # theme: minima
 remote_theme: "mmistakes/minimal-mistakes"
-skin: dark
+minimal_mistakes_skin: default
+
 plugins:
-  - jekyll-remote-theme
-  - jekyll-include-cache
+- jekyll-include-cache
+  # - jekyll-remote-theme
+  
