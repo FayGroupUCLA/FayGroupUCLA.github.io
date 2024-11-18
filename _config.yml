@@ -4,8 +4,8 @@ description: Fay Group @ UCLA website
 baseurl: "" # Leave blank for GitHub Pages; otherwise, add "/your-repo-name"
 url: "https://FayGroupUCLA.github.io" # Your GitHub Pages URL
 # theme: minima
-remote_theme: "mmistakes/minimal-mistakes@4.26.2"
-
+remote_theme: "mmistakes/minimal-mistakes"
+skin: dark
 plugins:
   - jekyll-remote-theme
   - jekyll-include-cache
