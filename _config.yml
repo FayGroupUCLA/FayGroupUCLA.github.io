@@ -1,1 +1,6 @@
+# Basic site settings
+title: Fay Group
+description: Fay Group @ UCLA website
+baseurl: "" # Leave blank for GitHub Pages; otherwise, add "/your-repo-name"
+url: "https://FayGroupUCLA.github.io" # Your GitHub Pages URL
 theme: minimal-mistakes-jekyll
