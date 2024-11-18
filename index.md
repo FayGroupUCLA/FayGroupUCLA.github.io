@@ -1,2 +1,7 @@
-layout: post
-title: Fay Group @ UCLA
+---
+layout: default
+title: Home
+---
+# Welcome to My Jekyll Site
+
+Fay group @ UCLA
