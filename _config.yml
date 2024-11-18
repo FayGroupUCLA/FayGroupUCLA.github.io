@@ -13,7 +13,7 @@ url: "https://FayGroupUCLA.github.io" # Your GitHub Pages URL
 header_pages:
   - contact.md
 
-sidebar:
+footer:
 
 plugins:
   # - jekyll-paginate
