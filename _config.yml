@@ -1,8 +1,8 @@
-# remote_theme: "mmistakes/minimal-mistakes"
-# minimal_mistakes_skin: "dark"
+remote_theme: "mmistakes/minimal-mistakes"
+minimal_mistakes_skin: "dark"
 
-theme: minima
-skin: dark
+# theme: minima
+# skin: dark
 
 # Basic site settings
 title: Fay Group
@@ -13,17 +13,17 @@ url: "https://FayGroupUCLA.github.io" # Your GitHub Pages URL
 header_pages:
   - contact.md
 
-# plugins:
-#   - jekyll-paginate
-#   - jekyll-sitemap
-#   - jekyll-gist
-#   - jemoji
-#   - jekyll-include-cache
+plugins:
+  # - jekyll-paginate
+  # - jekyll-sitemap
+  # - jekyll-gist
+  # - jemoji
+  - jekyll-include-cache
 
-# whitelist:
-#   - jekyll-paginate
-#   - jekyll-sitemap
-#   - jekyll-gist
-#   - jemoji
-#   - jekyll-include-cache
+whitelist:
+  # - jekyll-paginate
+  # - jekyll-sitemap
+  # - jekyll-gist
+  # - jemoji
+  - jekyll-include-cache
   
