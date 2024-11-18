@@ -6,3 +6,10 @@ url: "https://FayGroupUCLA.github.io" # Your GitHub Pages URL
 #theme: minima
 theme: minimal-mistakes-jekyll
 skin: dark
+
+# links for navigation
+nav_links:
+  - title: "Home"
+    url: "/"
+  - title: "Contact"
+    url: "/contact/"
