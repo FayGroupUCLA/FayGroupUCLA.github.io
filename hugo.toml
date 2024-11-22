@@ -1,0 +1,18 @@
+baseURL = 'https://example.org/'
+languageCode = 'en-us'
+title = "Fay Group"
+theme = 'ananke'
+sectionPagesMenu = "main"
+enableRobotsTXT = true
+site_logo = "images/ucla-logo.svg"
+
+
+[params]
+mainSections = []
+featured_image_class = "cover bg-top"
+
+cover_dimming_class = "bg-black-20"
+
+site_logo = "images/ucla-logo-compact.svg"
+logo_link = 'https://www.chemistry.ucla.edu'
+#site_logo = "images/blah.svg"

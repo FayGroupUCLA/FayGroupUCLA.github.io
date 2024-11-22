@@ -1,0 +1,57 @@
++++
+draft = false
+title = 'Team'
+menus = ['main']
+omit_page_header = true
+weight = 1
+cover_dimming_class = "bg-black-20"
++++
+
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+<!--   <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Flexbox Grid Example</title> -->
+  <style>
+    /* Flexbox styles for the grid */
+    .flex-container {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 20px;
+      padding: 20px;
+    }
+
+    .flex-item {
+      background-color: #f4f4f4;
+      border: 0px solid #ddd;
+      border-radius: 5px;
+      padding: 20px;
+      text-align: center;
+      font-size: 1.2rem;
+      flex: 1 1 calc(33.333% - 20px); /* Adjusts to 3 items per row */
+      box-sizing: border-box;
+    }
+
+    /* Make items stack on smaller screens */
+    @media (max-width: 600px) {
+      .flex-item {
+        flex: 1 1 100%; /* Stacks items on smaller screens */
+      }
+    }
+  </style>
+</head>
+<div class="flex-container">
+    <div class="flex-item"><strong>Dr Thomas Fay</strong>
+        <p>Principle Investigator</p></div>
+    </div>
+</div>
+<div>
+    Interested in joining the team? PhD, postdoc and undergraduate reseacher positons will be open soon. Inquiries are always welcome so <a href="/contact/">contact me</a> for more details.
+</div>
+<!-- <h2>Principle investigator</h2>
+<span>Dr Thomas Fay</span>
+<h2>Postdocs</h2> 
+<h2>Graduate students</h2>
+<h2>Undergreaduates</h2> -->
+</html>
