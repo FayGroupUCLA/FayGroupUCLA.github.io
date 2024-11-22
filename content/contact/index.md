@@ -11,6 +11,6 @@ type: page
 cover_dimming_class: "bg-black-20"
 omit_page_header: true
 ---
-Tom can be contact by email at *tom.patrick.fay \[at\] gmail.com*.
+Tom can be contacted by email at *tom.patrick.fay \[at\] gmail.com*.
 
-Inquires about PhD, postdoc and undergrad research positions are always welcome! Further information for PhD applicants can be found on the [UCLA Chemistry website](https://www.chemistry.ucla.edu/graduate/).
+Enquiries about PhD, postdoc and undergrad research positions are always welcome! Further information for PhD applicants can be found on the [UCLA Chemistry website](https://www.chemistry.ucla.edu/graduate/).
