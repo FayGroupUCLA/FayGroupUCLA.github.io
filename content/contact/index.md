@@ -13,4 +13,8 @@ omit_page_header: true
 ---
 Tom can be contacted by email at *tom.patrick.fay \[at\] gmail.com*.
 
-Enquiries about PhD, postdoc and undergrad research positions are always welcome! Further information for PhD applicants can be found on the [UCLA Chemistry website](https://www.chemistry.ucla.edu/graduate/).
+Enquiries about PhD, postdoc and undergrad research positions are always welcome!  
+
+Postdoc applicants should send an email explaining your interest in the group along with your CV.
+
+Further information for PhD applicants can be found on the [UCLA Chemistry website](https://www.chemistry.ucla.edu/graduate/).
