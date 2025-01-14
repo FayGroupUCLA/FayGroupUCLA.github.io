@@ -15,6 +15,15 @@ Tom can be contacted by email at *tom.patrick.fay \[at\] gmail.com*.
 
 Enquiries about PhD, postdoc and undergrad research positions are always welcome!  
 
-Postdoc applicants should send an email explaining your interest in the group along with your CV.
+### Postdoc Applicants
 
-Further information for PhD applicants can be found on the [UCLA Chemistry website](https://www.chemistry.ucla.edu/graduate/).
+There will be postdoc positions available starting from Summer/Fall 2025. Postdoc applicants should send an email explaining your interest in the group along with your CV.
+
+### PhD Applicants
+
+Applications for PhD positions cannot be made directly to the group. All applications are made the the [UCLA Chemistry website](https://www.chemistry.ucla.edu/graduate/). Note that applications are closed for positions starting Fall 2025.
+If you'd like to talk informally about potential projects in the group, feel free to contact Tom above, but again note that official applications can only be made the the [UCLA Chemistry website](https://www.chemistry.ucla.edu/graduate/). 
+
+### Undergraduate researchers
+
+Undergraduates interested in gaining some research experience in the group should contact Tom using the above information.
