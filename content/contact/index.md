@@ -26,4 +26,4 @@ If you'd like to talk informally about potential projects in the group, feel fre
 
 ### Undergraduate researchers
 
-Undergraduates interested in gaining some research experience in the group should contact Tom using the above information.
+Undergraduates interested in gaining some research experience in the group should contact Tom using the above information. 
