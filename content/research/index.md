@@ -1,4 +1,4 @@
----
+add ---
 title: "Research"
 
 #description: "The last theme you'll ever need. Maybe."
@@ -17,6 +17,7 @@ The Fay group explores a range of problems in chemistry. We develop theory and c
 
 ## Chirality Induced Spin Selectivity (CISS)
 
+![alt text](/images/d-chi-a.png "Image of a chiral donor-bridge-acceptor molecule.")
 Just over 25 years ago a remarkable effect was discovered: electron transport through chiral molecules is spin-selective, so one of the two electron spin states is more likely to be observed after the electron has travelled through a chiral molecule. Many theories of this effect have been proposed, but no single theory has emerged which can quantitatively explain the CISS effect across all experiments. In our group we work to push the boundaries of the theory of the CISS effect and bridge the gap between theory, experiment and application of chirality-dependent spin effects.
 
 ## Electron and energy transfer
