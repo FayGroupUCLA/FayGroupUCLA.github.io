@@ -15,9 +15,6 @@ Tom can be contacted by email at *tom.patrick.fay \[at\] gmail.com*.
 
 Enquiries about PhD, postdoc and undergrad research positions are always welcome!  
 
-### Postdoc Applicants
-
-There will be postdoc positions available starting from Summer/Fall 2025. Postdoc applicants should send an email explaining your interest in the group along with your CV.
 
 ### PhD Applicants
 
@@ -27,3 +24,9 @@ If you'd like to talk informally about potential projects in the group, feel fre
 ### Undergraduate researchers
 
 Undergraduates interested in gaining some research experience in the group should contact Tom using the above information. 
+
+### Postdoc Applicants
+
+Postdoc positions are available starting from Summer/Fall 2025. Postdoc applicants should send an email explaining your interest in the group along with your CV. Projects can be tailored to your experience, interests and new skills/knowledge you wish to develop. Applicants with experience or an interest in learning biomolecular simulation, developing force-fields for excited states, or quantum dynamics are particularly encouraged to apply.
+
+Applications are valued and encouraged from women and persons from other groups under-represented in theoretical chemistry.
