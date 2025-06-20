@@ -11,7 +11,7 @@ type: page
 cover_dimming_class: "bg-black-20"
 omit_page_header: true
 ---
-Tom can be contacted by email at *tom.patrick.fay \[at\] gmail.com*.
+Tom can be contacted by email at *thomaspfay \[at\] g.ucla.edu*.
 
 Enquiries about PhD, postdoc and undergrad research positions are always welcome!  
 
