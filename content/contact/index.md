@@ -29,4 +29,4 @@ Undergraduates interested in gaining some research experience in the group shoul
 
 Postdoc positions are available starting from Summer/Fall 2025. Postdoc applicants should send an email explaining your interest in the group along with your CV. Projects can be tailored to your experience, interests and new skills/knowledge you wish to develop. Applicants with experience or an interest in learning biomolecular simulation, developing force-fields for excited states, or quantum dynamics are particularly encouraged to apply.
 
-Applications are valued and encouraged from women and persons from other groups under-represented in theoretical chemistry.
+Applications are valued and encouraged from persons from groups which are generally less well represented in theoretical chemistry.
