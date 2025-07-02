@@ -22,12 +22,12 @@ Just over 25 years ago a remarkable effect was discovered: electron transport th
 
 ## Electron and energy transfer
 
-When moelcules absorb energy from light a plethora of complex processes can occur, transferring energy and electrons as well as reshaping chemical bonds. In our group we work to develop quantum dynamics methods and tools for describing reactions involving electornic excited states in the condensed phase.
+When molecules absorb energy from light a plethora of complex processes can occur, transferring energy and electrons as well as reshaping chemical bonds. In our group we work to develop quantum dynamics methods and tools for describing reactions involving electronic excited states in the condensed phase.
 
 ## Photosynthesis and photoprotection 
 
-Photosynthetic organisms can convert light energy absorbed from the sun into chemical energy with remarkable efficiency, potentially by harnessing quantum effects. In fact these organisms are so good at absorbing light energy that they need to protect themselves from harmful side reactions like the foramtion of highly reactive oxygen species, which they do through various photoprotective mechanisms. In our group we develop multi-time-scale models and methods to simulate the complex photosynthetic and photoprtective processes in light-harvesting organisms, in order to understand how this process, essential to life on Earth, functions.
+Photosynthetic organisms can convert light energy absorbed from the sun into chemical energy with remarkable efficiency, potentially by harnessing quantum effects. In fact these organisms are so good at absorbing light energy that they need to protect themselves from harmful side reactions like the formation of highly reactive oxygen species, which they do through various photoprotective mechanisms. In our group we develop multi-time-scale models and methods to simulate the complex photosynthetic and photoprotective processes in light-harvesting organisms, in order to understand how this process, essential to life on Earth, functions.
 
 ## Magnetic field effects in chemistry
 
-Magnetic fields as small as the Earth's magnetic field (much weaker than that of a fridge magnetic) can influence chemical reactions involving unpaired electromn spins at room temeprature. This is remarkable given that the interaction energy is orders of magnitude weaker smaller than thermal energy. We work with experimental groups to develop models to understand these fascinating effects, and how to harness them for applications in quantum information science and sensing.
+Magnetic fields as small as the Earth's magnetic field (much weaker than that of a fridge magnet) can influence chemical reactions involving unpaired electron spins at room temperature. This is remarkable given that the interaction energy is orders of magnitude smaller than thermal energy. We work with experimental groups to develop models to understand these fascinating effects, and how to harness them for applications in quantum information science and sensing.
