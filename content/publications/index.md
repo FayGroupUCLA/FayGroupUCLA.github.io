@@ -14,7 +14,24 @@ omit_page_header: true
 
 Up-to-date information on publications from the group can be found on [Google Scholar](https://scholar.google.com/citations?user=QTfhgdIAAAAJ&hl=en) or [ResearchGate](https://www.researchgate.net/profile/Thomas-Fay-2).
 
+Publications since joining UCLA:
+### 2025
+
+- **Enantioselective radical reactions can be induced by electron spin polarization: A quantum mechanism for Nature's emergent homochirality?**
+  *Thomas P Fay*
+  arXiv [DOI:10.48550/arXiv.2507.08287](https://doi.org/10.48550/arXiv.2507.08287)
+
+---
+
 Publications prior to joining UCLA:
+
+### 2025
+
+- **Analytic gradients and periodic boundary conditions for direct reaction field polarizable QM/MM with electrostatic potential fitting**
+   Thomas P. Fay, Miquel Huix-Rotllant, Nicolas Ferré
+  ChemRxiv [DOI:10.26434/chemrxiv-2025-1jrbx](https://doi.org/10.26434/chemrxiv-2025-1jrbx)
+
+---
 
 ### 2024
 
