@@ -15,7 +15,11 @@ omit_page_header: true
 
 ## Advanced Quantum Mechanics
 You can find links to the lecture notes, and accompanying primers on various mathematical topics, for the Advanced Quantum Mechanics Course I teach at UCLA.
+
 [Quantum Mechanics Lecture Notes](/pdfs/qm-course-notes.pdf)
+
 [Complex Numbers Primer](/pdfs/complex-numbers-notes.pdf)
+
 [Linear Algebra Primer](/pdfs/linear-algebra-primer.pdf)
+
 [Fourier Transforms and the Delta function](/pdfs/fourier-transforms-delta-function.pdf)
