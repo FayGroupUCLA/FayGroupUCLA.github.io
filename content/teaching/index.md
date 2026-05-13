@@ -16,7 +16,9 @@ omit_page_header: true
 ## Advanced Quantum Mechanics
 You can find links to the lecture notes, and accompanying primers on various mathematical topics, for the Advanced Quantum Mechanics Course I teach at UCLA.
 
-[Quantum Mechanics Lecture Notes](/pdfs/qm-course-notes.pdf)
+[Quantum Mechanics Lecture Notes (Part A)](/pdfs/qm-course-notes.pdf)
+
+[Quantum Mechanics Lecture Notes (Part B)](/pdfs/qm-course-notes-b.pdf)
 
 [Complex Numbers Primer](/pdfs/complex-numbers-notes.pdf)
 
