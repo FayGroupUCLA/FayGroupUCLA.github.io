@@ -15,11 +15,29 @@ omit_page_header: true
 Up-to-date information on publications from the group can be found on [Google Scholar](https://scholar.google.com/citations?user=QTfhgdIAAAAJ&hl=en) or [ResearchGate](https://www.researchgate.net/profile/Thomas-Fay-2).
 
 Publications since joining UCLA:
+### 2026
+
+- **Wave Mechanics of Ciliary Proteins: Quantum-Enabled Sensing and Energy Transfer in the “Cellular Antenna”**
+  *Daniel L. Bilezikian, Dylan Davidoff, Justin R. Caram, Thomas P. Fay, Aarat P. Kalra, Paul S. Weiss*
+  *Aggregate 7, no. 6 (2026) e70354*
+  [DOI: 10.1002/agt2.70354](https://doi.org/10.1002/agt2.70354)
+
+- **Solvent effects on triplet yields in BODIPY-based photosensitizers**
+  *Leonardo Coello Escalante, Thomas P. Fay, David T. Limmer *
+  *Journal of Chemical Physics 164, 184507 (2026)*
+  [DOI: 10.1063/5.0323275](https://doi.org/10.1063/5.0323275)
+
 ### 2025
 
 - **Enantioselective radical reactions can be induced by electron spin polarization: A quantum mechanism for Nature's emergent homochirality?**
   *Thomas P Fay*
-  arXiv [DOI:10.48550/arXiv.2507.08287](https://doi.org/10.48550/arXiv.2507.08287)
+  *Journal of Physical Chemistry Letters 16, 9414–9420 (2025)*
+  [DOI: 10.1021/acs.jpclett.5c02119](https://doi.org/10.1021/acs.jpclett.5c02119)
+
+- **Analytic gradients and periodic boundary conditions for direct reaction field polarizable QM/MM with electrostatic potential fitting**
+   *Thomas P. Fay, Miquel Huix-Rotllant, Nicolas Ferré*
+  *Journal of Chemical Theory and Computation 2025, 21, 18, 8773–8786*
+  [DOI: 10.1021/acs.jctc.5c00863](https://doi.org/10.1021/acs.jctc.5c00863)]
 
 ---
 
@@ -27,9 +45,16 @@ Publications prior to joining UCLA:
 
 ### 2025
 
-- **Analytic gradients and periodic boundary conditions for direct reaction field polarizable QM/MM with electrostatic potential fitting**
-   Thomas P. Fay, Miquel Huix-Rotllant, Nicolas Ferré
-  ChemRxiv [DOI:10.26434/chemrxiv-2025-1jrbx](https://doi.org/10.26434/chemrxiv-2025-1jrbx)
+- **Molecular Engineering of Emissive Molecular Qubits Based on Spin-Correlated Radical Pairs**  
+  *Neo Lin, Miu Tsuji, Isabella Bruzzese, Angela Chen, Michael Vrionides, Noen Jian, Farhan Kittur, Thomas P. Fay, Tomoyasu Mani.*  
+  *Journal of the American Chemical Society 2025, 147, 13, 11062–11071*
+  [DOI: 10.1021/jacs.4c16164](https://doi.org/10.1021/jacs.4c16164)
+
+- **Efficient polarizable QM/MM using the direct reaction field Hamiltonian with electrostatic potential fitted multipole operators**  
+  *Thomas P. Fay, Nicolas Ferré, Miquel Huix-Rotllant*  
+  *Journal of Chemical Theory and Computation 2025, 21, 1, 183–201*
+  [DOI: 10.1021/acs.jctc.4c01219](https://doi.org/10.1021/acs.jctc.4c01219)
+
 
 ---
 
@@ -59,17 +84,6 @@ Publications prior to joining UCLA:
   *Johan E. Runeson, Thomas P. Fay, David E. Manolopoulos*  
   *Physical Chemistry Chemical Physics, 26(6), 4929–4938.*  
   [DOI: 10.1039/D3CP04693K](https://doi.org/10.1039/D3CP04693K)
-
-- **Efficient polarizable QM/MM using the direct reaction field Hamiltonian with electrostatic potential fitted multipole operators**  
-  *Thomas P. Fay, Nicolas Ferré, Miquel Huix-Rotllant*  
-  *arXiv preprint arXiv:2409.10483.*  
-  [DOI: 10.48550/arXiv.2409.10483](https://doi.org/10.48550/arXiv.2409.10483)
-
-- **Molecular Engineering of Emissive Molecular Qubits Based on Spin-Correlated Radical Pairs**  
-  *Neo Lin, Miu Tsuji, Isabella Bruzzese, Angela Chen, Michael Vrionides, Noen Jian, Farhan Kittur, Thomas P. Fay, Tomoyasu Mani.*  
-  *ChemRxiv preprint.*
-  [DOI: 10.26434/chemrxiv-2024-45q9k](https://doi.org/10.26434/chemrxiv-2024-45q9k)
-
 
 ---
 
